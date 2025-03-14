@@ -1,6 +1,6 @@
 # Animation-Button
 
-<img style="width: 500px;border-radius: 15px;" src='cover.gold-button.jpg'>
+<img style="width: 500px;align-item:center" src='cover.gold-button.jpg'>
 
 Button with Hover Effect
 This is a simple project showcasing how to create an interactive button with a hover effect using HTML and CSS and js.
