@@ -16,4 +16,4 @@ javascript.js : Contains the structure of button and mouse animations
 
 Tutorial Video:
 For a step-by-step guide on how to build this project, check out my YouTube tutorial:
-Watch the Tutorial
+[Watch the Tutorial](https://youtu.be/cIKhz0VxXRA?si=kxH5at6TusFV0QpP)
