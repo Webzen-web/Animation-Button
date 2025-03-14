@@ -1,9 +1,11 @@
 # Animation-Button
 
+<img src='cover.gold-button.jpg'>
+
 Button with Hover Effect
 This is a simple project showcasing how to create an interactive button with a hover effect using HTML and CSS and js.
 
-Features:
+# Features:
 A visually appealing button with smooth hover animation.
 Fully responsive and customizable.
 Easy to integrate into any web project.
